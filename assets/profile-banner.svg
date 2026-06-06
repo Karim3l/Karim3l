@@ -1,0 +1,53 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Karim El profile banner</title>
+  <desc id="desc">A dark technical banner with interface panels, code lines, data charts, and the text Karim El.</desc>
+  <rect width="1200" height="360" rx="28" fill="#0B1020"/>
+  <path d="M0 288C128 232 235 259 352 203C467 148 518 49 652 64C793 80 822 213 969 200C1070 191 1138 119 1200 56V360H0V288Z" fill="#123B4F" opacity=".9"/>
+  <path d="M0 312C129 266 257 279 386 232C531 179 609 98 735 129C869 162 890 273 1011 267C1094 263 1159 223 1200 185V360H0V312Z" fill="#1D6F62" opacity=".75"/>
+  <path d="M0 330C140 303 269 305 416 269C577 229 676 167 805 204C924 238 973 318 1088 314C1133 313 1172 305 1200 293V360H0V330Z" fill="#D94F30" opacity=".75"/>
+
+  <g opacity=".22">
+    <circle cx="98" cy="70" r="2" fill="#EAF2FF"/>
+    <circle cx="151" cy="120" r="2" fill="#EAF2FF"/>
+    <circle cx="257" cy="52" r="2" fill="#EAF2FF"/>
+    <circle cx="380" cy="93" r="2" fill="#EAF2FF"/>
+    <circle cx="486" cy="43" r="2" fill="#EAF2FF"/>
+    <circle cx="697" cy="42" r="2" fill="#EAF2FF"/>
+    <circle cx="833" cy="82" r="2" fill="#EAF2FF"/>
+    <circle cx="974" cy="52" r="2" fill="#EAF2FF"/>
+    <circle cx="1101" cy="106" r="2" fill="#EAF2FF"/>
+    <path d="M98 70L151 120L257 52L380 93L486 43M697 42L833 82L974 52L1101 106" stroke="#EAF2FF"/>
+  </g>
+
+  <rect x="70" y="70" width="370" height="210" rx="18" fill="#10182D" stroke="#2A385A"/>
+  <rect x="92" y="94" width="64" height="10" rx="5" fill="#D94F30"/>
+  <rect x="171" y="94" width="115" height="10" rx="5" fill="#35B7A6"/>
+  <rect x="92" y="128" width="244" height="9" rx="4.5" fill="#EAF2FF" opacity=".65"/>
+  <rect x="92" y="154" width="174" height="9" rx="4.5" fill="#EAF2FF" opacity=".35"/>
+  <rect x="92" y="180" width="288" height="9" rx="4.5" fill="#EAF2FF" opacity=".5"/>
+  <rect x="92" y="214" width="78" height="30" rx="8" fill="#35B7A6" opacity=".9"/>
+  <rect x="184" y="214" width="98" height="30" rx="8" fill="#D94F30" opacity=".9"/>
+  <path d="M318 242L342 201L366 219L394 162" stroke="#35B7A6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(804 70)">
+    <rect width="326" height="210" rx="18" fill="#10182D" stroke="#2A385A"/>
+    <rect x="26" y="28" width="110" height="12" rx="6" fill="#35B7A6"/>
+    <rect x="26" y="58" width="242" height="8" rx="4" fill="#EAF2FF" opacity=".45"/>
+    <rect x="26" y="83" width="205" height="8" rx="4" fill="#EAF2FF" opacity=".28"/>
+    <rect x="26" y="116" width="46" height="62" rx="8" fill="#D94F30"/>
+    <rect x="91" y="92" width="46" height="86" rx="8" fill="#35B7A6"/>
+    <rect x="156" y="128" width="46" height="50" rx="8" fill="#F0B84C"/>
+    <rect x="221" y="72" width="46" height="106" rx="8" fill="#7AA7FF"/>
+  </g>
+
+  <text x="500" y="139" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="800" letter-spacing="0">Karim El</text>
+  <text x="503" y="181" fill="#B8C4D9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500" letter-spacing="0">Full-stack builds, data tools, and product prototypes</text>
+  <g transform="translate(503 214)">
+    <rect width="91" height="32" rx="16" fill="#16223A" stroke="#314360"/>
+    <text x="19" y="22" fill="#EAF2FF" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700">React</text>
+    <rect x="105" width="102" height="32" rx="16" fill="#16223A" stroke="#314360"/>
+    <text x="123" y="22" fill="#EAF2FF" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700">Next.js</text>
+    <rect x="221" width="100" height="32" rx="16" fill="#16223A" stroke="#314360"/>
+    <text x="239" y="22" fill="#EAF2FF" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700">Python</text>
+  </g>
+</svg>
